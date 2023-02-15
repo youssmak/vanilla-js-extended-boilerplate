@@ -4,37 +4,33 @@ _This is a opinionated starter project for building fast ⚡️ HTML + CSS + JS 
 
 ## Features
 
+- ViteJS : Lightning fast web server for development 🧑‍💻 and optimized build for production 📦
 - Prettier : format code on save and save your energy 🔋
 - Eslint : Analyse your code and quickly find issues 🐛
 
 ## Installation
 
 1. Clone this repo ✂️
-2. Install dependencies
+2. Install dependencies ⬇️
 
 ```sh
 yarn install
 ```
 
-2. Start a web server 🌐
+3. Start your dev server 🌐
 
 ```sh
-# macOS or Unix Systems
-python -m mSimpleHTTPServer 8000 & open --url http://localhost:8000 &
-# if you have Python 3 installed
-python3 -m http.server 8000 & open --url http://localhost:8000 &
+yarn start
 ```
 
-3. Start coding 🧑‍💻
+4. Start coding 🧑‍💻
 
 ## Dependencies
 
 Node
 
-```sh
-# Better using nvm
+Use nvm to install it (strongly recommended):\
 https://github.com/nvm-sh/nvm#install--update-script
-```
 
 Yarn
 

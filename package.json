@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "lint": "yarn eslint *.js"
+    "lint": "yarn eslint *.js",
+    "start": "vite",
+    "build": "yarn lint && vite build"
   },
   "devDependencies": {
     "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
-    "prettier": "^2.8.4"
+    "prettier": "^2.8.4",
+    "vite": "^4.1.1"
   }
 }
