@@ -4,7 +4,8 @@ _This is a opinionated starter project for building fast ⚡️ HTML + CSS + JS 
 
 ## Features
 
-- Prettier : format code on save and save your time ⌛️
+- Prettier : format code on save and save your energy 🔋
+- Eslint : Analyse your code and quickly find issues 🐛
 
 ## Installation
 
