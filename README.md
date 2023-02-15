@@ -16,7 +16,18 @@ python3 -m http.server 8000 & open --url http://localhost:8000 &
 
 ## Dependencies
 
-Zero dependency.
+Node
+```sh
+# Better using nvm
+https://github.com/nvm-sh/nvm#install--update-script
+```
+
+Yarn
+```sh
+npm install --global yarn
+```
+
+
 
 ## License
 All content is [MIT](https://github.com/youssmak/vanilla-js-boilerplate/blob/master/LICENSE).

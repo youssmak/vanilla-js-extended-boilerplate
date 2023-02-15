@@ -23,6 +23,7 @@ pnpm-debug.log*
 tmp
 *.tmp
 .cache
+.yarn
 
 # App
 node_modules
