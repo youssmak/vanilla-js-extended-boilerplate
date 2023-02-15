@@ -1,5 +1,8 @@
 {
   "name": "vanilla-js-extended-boilerplate",
   "version": "0.1.0",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
 }

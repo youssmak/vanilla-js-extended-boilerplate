@@ -1,0 +1,15 @@
+{
+  "useTabs": false,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["**/*.css"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ],
+  "trailingComma": "all",
+  "bracketSameLine": true
+}

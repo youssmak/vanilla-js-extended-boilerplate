@@ -2,7 +2,6 @@
 # http://git-scm.com/docs/gitignore
 
 # workspaces
-.vscode/
 .idea
 
 # macOS generated files
@@ -17,7 +16,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
 
 # temporary files
 tmp
